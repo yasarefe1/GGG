@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Agents",
+  "description": "An open-source multi-agent framework UI where a Manager agent breaks down tasks and delegates them to specialized agents (Researcher, Developer, Writer).",
+  "requestFramePermissions": []
+}
